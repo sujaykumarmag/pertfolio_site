@@ -1,11 +1,5 @@
 module.exports = {
-    exportPathMap: async function () {
-      return {
-        '/': { page: '/' },
-        // Add other pages here if needed
-      };
-    },
+    reactStrictMode: true,
     output: 'export',
-    // Add any other necessary configurations
   };
   
