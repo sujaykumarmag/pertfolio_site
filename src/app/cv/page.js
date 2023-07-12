@@ -1,6 +1,8 @@
 "use client";
 
 import React, { useEffect, useRef } from 'react';
+import Header from '../header';
+import Footer from '../footer';
 
 
 export default function Bio() {
@@ -26,6 +28,10 @@ export default function Bio() {
     }, []);
 
     return (
+        <>
+        <Header />
+
+       
         <div className="bg-white text-black">
             <div className="w-full lg:w-2/3 mx-auto p-5 lg:p-8">
                 <h2 className="text-2xl lg:text-3xl text-left mb-4">Bio</h2>
@@ -66,6 +72,8 @@ export default function Bio() {
 
 
         </div>
+        <Footer />
+        </>
     )
 }
 
