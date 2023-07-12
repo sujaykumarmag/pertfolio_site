@@ -2,6 +2,7 @@ import Image from 'next/image'
 import Header from './header'
 import Footer from './footer'
 import Bio from './cv/page'
+import Main from './home/main'
 
 
 export default function Home() {
@@ -10,7 +11,7 @@ export default function Home() {
 
     <div className="bg-white text-black ">
       <Header />
-      <Bio />
+      <Main />
       <Footer />
 
     </div>

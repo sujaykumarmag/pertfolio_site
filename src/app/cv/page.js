@@ -13,7 +13,7 @@ export default function Bio() {
             const iframe = iframeRef.current;
             const windowHeight = window.innerHeight || document.documentElement.clientHeight;
             const iframeHeight = windowHeight - iframe.getBoundingClientRect().top;
-            iframe.style.height = `${3.7 * iframeHeight}px`;
+            iframe.style.height = `${3.8 * iframeHeight}px`;
         };
 
         setIframeHeight();
