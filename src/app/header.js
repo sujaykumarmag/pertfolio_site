@@ -13,7 +13,7 @@ const Header = () => {
                     </label>
                     <ul tabIndex={0} className="menu menu-sm bg-black text-white dropdown-content mt-3 z-[1] p-2 shadow bg-base-100 rounded-box w-52">
                         <li><a>About</a></li>
-                        <li><a href="/bio">Bio+CV</a></li>
+                        <li><a href="/cv">Bio+CV</a></li>
                         <li><a>Blogs</a></li>
                         <li><a>Research Publications</a></li>
                         <li><a>Projects</a></li>
@@ -25,12 +25,12 @@ const Header = () => {
             </div>
             <div className="navbar-center hidden lg:flex">
                 <ul className="menu menu-horizontal px-1">
-                    <li><a>About</a></li>
-                    <li><a href="/bio" >Bio+CV</a></li>
-                    <li><a>Blogs</a></li>
-                    <li><a>Research Publications</a></li>
-                    <li><a>Projects</a></li>
-                    <li><a>Experience</a></li>
+                    <li><a className="hover:text-gray-500">About</a></li>
+                    <li><a href="/cv" className="hover:text-gray-500">Bio+CV</a></li>
+                    <li><a className="hover:text-gray-500">Blogs</a></li>
+                    <li><a className="hover:text-gray-500">Research Publications</a></li>
+                    <li><a className="hover:text-gray-500">Projects</a></li>
+                    <li><a className="hover:text-gray-500">Experience</a></li>
                 </ul>
             </div>
         </div>
