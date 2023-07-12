@@ -8,8 +8,7 @@ import newsData from './news-content.json';
 function NewsSection() {
   return (
     <section className="py-10 bg-white text-black p-7 justify-content-center">
-      <h2 className="text-3xl font-bold mb-6 text-left lg:text-left">Latest News</h2>
-
+      <h2 className="text-3xl font-bold mb-6 ml-2 md:ml-40 text-left lg:text-left md:mb-8">Latest News</h2>
 
       <div className="container mx-auto text-center">
         <div className="max-h-80 overflow-y-auto">

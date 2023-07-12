@@ -8,7 +8,7 @@ function Intro() {
       <div className="container mx-auto grid grid-cols-1 md:grid-cols-2 gap-0">
         <div className="flex items-center justify-center md:justify-center">
           <div className="w-84 h-84">
-            <img src="/assets/profile.jpeg" alt="Profile Image" width={400} height={256} />
+            <img src="/assets/profile.jpeg" alt="Profile Image" width={420} height={256} />
             
           </div>
         </div>
