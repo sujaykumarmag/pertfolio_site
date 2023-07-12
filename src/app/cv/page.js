@@ -13,7 +13,7 @@ export default function Bio() {
             const iframe = iframeRef.current;
             const windowHeight = window.innerHeight || document.documentElement.clientHeight;
             const iframeHeight = windowHeight - iframe.getBoundingClientRect().top;
-            iframe.style.height = `${2.2 * iframeHeight}px`;
+            iframe.style.height = `${3.7 * iframeHeight}px`;
         };
 
         setIframeHeight();
@@ -46,22 +46,21 @@ export default function Bio() {
 
             <div className="w-full lg:w-2/3 mx-auto p-5 lg:p-8">
                 <div className="text-left mb-4">
-                    <p className='text-2xl lg:text-3xl '>Curriculum Vitae</p>
-                <a className='text-1xl text-left text-blue-900 hover:underline' href="/assets/cv.pdf" target="_blank" >[PDF]</a>
-                
+                    <p className="text-2xl lg:text-3xl">Curriculum Vitae</p>
+                    <a className="text-1xl text-left text-blue-900 hover:underline" href="/assets/cv.pdf" target="_blank">
+                        [PDF]
+                    </a>
                 </div>
-        
-                    
-       
-                <div className="aspect-w-16 aspect-h-9">
+                <div className="aspect-w-4 aspect-h-3 sm:aspect-w-16 sm:aspect-h-9">
                     <iframe
                         src="/assets/cv.pdf"
                         ref={iframeRef}
-                        className="w-full"
+                        className="w-full h-full"
                         title="Embedded PDF"
                     ></iframe>
                 </div>
             </div>
+
 
 
 
