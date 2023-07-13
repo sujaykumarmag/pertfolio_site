@@ -48,9 +48,9 @@ export default function Projects() {
                                 <div key={index} className="bg-white p-4">
                                     <h3 className="text-lg font-bold mb-2">{content.title}</h3>
                                     <p className="text-gray-700">{content.content}</p>
-                                    <a className="text-blue-500 hover:underline" href={content.link}>Code </a>
+                                    <a className="text-blue-500 hover:underline" href={content.link}>[Code] </a>
                                     {content.report && (
-                                        <a className="text-blue-500 hover:underline ml-4" href={content.report}>View Report</a>
+                                        <a className="text-blue-500 hover:underline ml-4" href={content.report}>[Report]</a>
                                     )}
                                     {content.video && (
                                         <div className="mt-2">
@@ -79,10 +79,10 @@ export default function Projects() {
                                     <h3 className="text-lg font-bold mb-2">{item.title}</h3>
                                     <p className="text-gray-700">{item.content}</p>
                                     {item.link && (
-                                        <a className="text-blue-500 hover:underline" href={item.link}>GitHub Link</a>
+                                        <a className="text-blue-500 hover:underline" href={item.link}>[Code]</a>
                                     )}
                                     {item.report && (
-                                        <a className="text-blue-500 hover:underline ml-4" href={item.report}>View Report</a>
+                                        <a className="text-blue-500 hover:underline ml-4" href={item.report}>[Report]</a>
                                     )}
                                 </div>
                             ))}
