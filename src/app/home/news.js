@@ -15,8 +15,8 @@ function NewsSection() {
           <div className="space-y-6">
             {newsData.map((newsItem, index) => (
               <div key={index} className="border-b pb-4">
-                <li className="text-gray-700">{newsItem.description}
-                  <a href="#" className="text-blue-500 hover:underline mt-2 p-2">
+                <li className="text-gray-700">{newsItem.title}
+                  <a href={newsItem.link} className="text-blue-500 hover:underline mt-2 p-2">
                     Read More
                   </a>
                 </li>

@@ -1,46 +1,13 @@
 [
     {
-      "title": "Title of the News 1",
-      "date": "July 15, 2023",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse at ligula eget tellus cursus aliquam quis nec odio."
+      "title": "Got Accepted for the Research Intership for the PM-Gati-Shakti Scheme at NIT Calicut",
+      "date": "May 15, 2023",
+      "link":"https://old.nitc.ac.in/coelscm/pdf/PRAGATI.pdf"
     },
     {
-      "title": "Title of the News 2",
-      "date": "July 20, 2023",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse at ligula eget tellus cursus aliquam quis nec odio."
-    },
-    {
-      "title": "Title of the News 3",
-      "date": "July 25, 2023",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse at ligula eget tellus cursus aliquam quis nec odio."
-    }, {
-      "title": "Title of the News 1",
-      "date": "July 15, 2023",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse at ligula eget tellus cursus aliquam quis nec odio."
-    },
-    {
-      "title": "Title of the News 2",
-      "date": "July 20, 2023",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse at ligula eget tellus cursus aliquam quis nec odio."
-    },
-    {
-      "title": "Title of the News 3",
-      "date": "July 25, 2023",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse at ligula eget tellus cursus aliquam quis nec odio."
-    }, {
-      "title": "Title of the News 1",
-      "date": "July 15, 2023",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse at ligula eget tellus cursus aliquam quis nec odio."
-    },
-    {
-      "title": "Title of the News 2",
-      "date": "July 20, 2023",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse at ligula eget tellus cursus aliquam quis nec odio."
-    },
-    {
-      "title": "Title of the News 3",
-      "date": "July 25, 2023",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse at ligula eget tellus cursus aliquam quis nec odio."
+      "title": "Paper got Accepted at IRJET on Quantum Cryptography for Information Security Course at VIT",
+      "date": "May 15, 2023",
+      "link":"https://www.irjet.net/archives/V10/i3/IRJET-V10I3161.pdf"
     }
   ]
   

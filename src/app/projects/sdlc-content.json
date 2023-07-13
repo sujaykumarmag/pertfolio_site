@@ -1,0 +1,19 @@
+[
+    {
+        "title":"Object Segmentation using Google Earth",
+        "content":"Object Segmentation in GE is the process of identifying and locating objects in an image or video using computer vision techniques. GE uses advanced algorithms and machine learning to enable object detection in various applications. The goal is to accurately and efficiently identify and track objects to improve safety, enhance productivity, and enable new capabilities in industries such as surveillance, autonomous vehicles, and robotics.",
+        "link":"https://github.com/sujaykumarmag/object_detection_ge",
+        "report":"/assets/SE_report.pdf",
+        "video":"/assets/videos/SE.mp4",
+        "tags":["gapi","google_earth","object Detection","flask","python","react"]
+    },
+    {
+        "title":"Blockchain Voting System",
+        "content":"The Blockchain Voting System Project is a secure and innovative approach to voting that uses blockchain technology to ensure the accuracy and integrity of the voting process. By leveraging a decentralized and immutable ledger, the system eliminates the risk of voter fraud and hacking, and provides a transparent and automated voting process. The system is accessible and user-friendly, making it an ideal solution for remote and absentee voting. This system is made by using Hardhat, Ethereum smart contracts, and React would be a decentralized platform for voting. The system would use cryptography to ensure secure, anonymous, and auditable votes, with a front-end built in React and the back-end using Ethereum smart contracts, deployed with Goerli Testnet.",
+        "link":"https://github.com/sujaykumarmag/blockchain_voting_system",
+        "report":"",
+        "video":"/assets/videos/blockchain.mp4",
+        "tags":["hardhat","ethereum","smartcontracts","mocha","chai","react"]
+    }
+]
+

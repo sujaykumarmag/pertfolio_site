@@ -15,13 +15,9 @@ function Intro() {
         <div className="flex flex-col justify-center p-3">
           <h2 className="text-3xl font-bold mb-6 p-4">SUJAYKUMAR REDDY M</h2>
           <h2 className="mb-6 p-4">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed fringilla turpis vel leo condimentum malesuada.
-            Morbi lobortis euismod leo, id venenatis nibh fringilla id. Nulla facilisi. Integer dignissim tincidunt
-            tortor vel cursus. Aliquam erat volutpat. Nam dictum dignissim sem, nec lobortis mauris suscipit a. Nullam
-            vitae justo id nisl laoreet aliquam in sed justo. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed fringilla turpis vel leo condimentum malesuada.
-            Morbi lobortis euismod leo, id venenatis nibh fringilla id. Nulla facilisi. Integer dignissim tincidunt
-            tortor vel cursus. Aliquam erat volutpat. Nam dictum dignissim sem, nec lobortis mauris suscipit a. Nullam
-            vitae justo id nisl laoreet aliquam in sed justo.
+          A passionate researcher in Machine Learning and also play my role as a Software Developer. In terms of my academic background, I am pursuing my B.Tech Degree in Vellore Institute of Technology-Vellore, where I was able to gain a solid foundation in both theoretical and practical aspects of Machine Learning. I have also had the opportunity to participate in several research projects which have allowed me to gain hands-on experience in developing and implementing cutting-edge ML algorithms.
+
+          Hit me up for exciting research or software dev opportunities, or simply to exchange ideas. 
             
           </h2>
 

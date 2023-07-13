@@ -15,7 +15,7 @@ export default function Bio() {
             const iframe = iframeRef.current;
             const windowHeight = window.innerHeight || document.documentElement.clientHeight;
             const iframeHeight = windowHeight - iframe.getBoundingClientRect().top;
-            iframe.style.height = `${3.8 * iframeHeight}px`;
+            iframe.style.height = `${4.4 * iframeHeight}px`;
         };
 
         setIframeHeight();
@@ -35,17 +35,9 @@ export default function Bio() {
         <div className="bg-white text-black">
             <div className="w-full lg:w-2/3 mx-auto p-5 lg:p-8">
                 <h2 className="text-2xl lg:text-3xl text-left mb-4">Bio</h2>
-                <p className="text-lg lg:text-xl text-justify">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed fringilla turpis vel leo condimentum malesuada.
-                    Morbi lobortis euismod leo, id venenatis nibh fringilla id. Nulla facilisi. Integer dignissim tincidunt
-                    tortor vel cursus. Aliquam erat volutpat. Nam dictum dignissim sem, nec lobortis mauris suscipit a. Nullam
-                    vitae justo id nisl laoreet aliquam in sed justo.
+                <p className="text-lg lg:text-l text-justify">
+                My research works in Machine Learning have given me valuable insights into the branch of Machine Learning, and the problem Solutions has assisted me with valuable experience in using optimization techniques in ML and solving high-level problems using ML and Big Data. I have exposed myself to a variety of responsibilities and challenges which we encounter in making an ML model and have been learning constantly the use cases and challenges to provide a solution using Machine Learning. The one thing which I have learned as a DataScience student is how to make the data easily catchable for the Machine Learning Algorithms to capture interactions and find effective relationships. Technologies like Artificial Intelligence, Machines, and Deep Learning are the tools that help human to automate their daily life. These technologies can be used in vast areas such as Predictions, Internet-of- things, etc... which I would love to contribute my work weight as much as possible.
 
-
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed fringilla turpis vel leo condimentum malesuada.
-                    Morbi lobortis euismod leo, id venenatis nibh fringilla id. Nulla facilisi. Integer dignissim tincidunt
-                    tortor vel cursus. Aliquam erat volutpat. Nam dictum dignissim sem, nec lobortis mauris suscipit a. Nullam
-                    vitae justo id nisl laoreet aliquam in sed justo.
                 </p>
             </div>
 

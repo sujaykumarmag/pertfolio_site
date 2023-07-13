@@ -1,0 +1,24 @@
+[
+    
+    {
+        "title":"PMV-PPD-Prediction",
+        "content":"The PMV and PPD prediction project uses algorithms to accurately assess thermal comfort in various settings. It predicts key factors such as temperature, humidity, and air velocity using Support Vector Regression (SVR) algorithms, and classifies thermal sensation levels using semi-supervised algorithms like KMeans clustering with logistic regression. The project is scalable and adaptable to different sensor and data collection methods, providing a responsive and nuanced assessment of thermal comfort.",
+        "link":"https://github.com/sujaykumarmag/PMV_PPD",
+        "report":"/assets/pmv.pdf"
+        
+    },
+    {
+        "title":"Medical Fraud Detection",
+        "content":"In the United States, the median range of healthcare offenders was between 400 and 430 in 2021. While the number of offenders is relatively small, the related financial impact is significant. We utilize the Centers for Medicare & Medicaid Services (CMS) Big Data provider datasets to identify instances of fraudulent activity within the healthcare system. As of 2023, the number of datasets available has been increased, enabling more robust and comprehensive analysis. In addition, we take into consideration various treatment and Medicare Programs to ensure a thorough understanding of the healthcare landscape and to effectively identify fraudulent activity. we employ various Supervised, Unsupervised, and Semi-Supervised Algorithms to effectively not only by identify fraudulent activity within the healthcare system and also depicting where exactly did the fraud happen. Specifically, we leverage Deep Neural Networks to capture the interactions between the features within the dataset, achieving an accuracy score of 85% ",
+        "link":"https://github.com/sujaykumarmag/medical_fraud_detection",
+        "report":"/assets/fraud.pdf"
+        
+    },
+    {
+        "title":"Leveraging ML techniques in the subject of Reverse Engineering of Malware",
+        "report":"/assets/malware.pdf",
+        "content":"Reverse engineering malware is the process of decompiling and analyzing malicious software in order to understand its behavior and intent. This can be a challenging task, as malware is often obfuscated or encrypted to make it difficult to understand. We use ML which is used to generate features that can be used to train machine learning models to detect malware. These features can be based on the code itself, or on the behavior of the malware when it is executed."
+    }
+    
+]
+
