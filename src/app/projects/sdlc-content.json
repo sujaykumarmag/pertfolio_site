@@ -3,7 +3,7 @@
         "title":"Object Segmentation using Google Earth",
         "content":"Object Segmentation in GE is the process of identifying and locating objects in an image or video using computer vision techniques. GE uses advanced algorithms and machine learning to enable object detection in various applications. The goal is to accurately and efficiently identify and track objects to improve safety, enhance productivity, and enable new capabilities in industries such as surveillance, autonomous vehicles, and robotics.",
         "link":"https://github.com/sujaykumarmag/object_detection_ge",
-        "report":"/assets/SE_report.pdf",
+        "report":"/assets/SE_Report.pdf",
         "video":"/assets/videos/SE.mp4",
         "tags":["gapi","google_earth","object Detection","flask","python","react"]
     },
