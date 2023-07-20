@@ -7,7 +7,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "dev": "next dev",
-    "build": "next build && next export",
+    "build": "next build",
     "start": "next start",
     "lint": "next lint"
   },
@@ -20,7 +20,7 @@
   "dependencies": {
     "@fortawesome/fontawesome-free": "^6.4.0",
     "autoprefixer": "^9.8.8",
-    "next": "^13.4.9",
+    "next": "^10.0.0",
     "postcss": "^7.0.39",
     "pspdfkit": "^2023.3.4",
     "react": "^18.2.0",
