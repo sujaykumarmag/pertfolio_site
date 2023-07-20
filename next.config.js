@@ -1,7 +1,5 @@
 module.exports = {
   reactStrictMode: true,
   output: 'export',
-  outputTracing: {
-    webpack: false,
-  },
+  NEXT_PRIVATE_STANDALONE:true,
 };
