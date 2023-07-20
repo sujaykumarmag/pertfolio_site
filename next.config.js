@@ -1,10 +1,7 @@
 module.exports = {
-    reactStrictMode: true,
-    output: 'export',
-    outputTracing: {
-    webpack: false, // Optionally, set this to true if you need webpack output tracing as well.
-    // ...other options if needed
+  reactStrictMode: true,
+  output: 'export',
+  outputTracing: {
+    webpack: false,
   },
-    
-  };
-  
+};
